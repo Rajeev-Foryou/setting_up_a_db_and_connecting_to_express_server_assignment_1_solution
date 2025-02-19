@@ -5,8 +5,12 @@
     "start": "node index.js"
   },
   "dependencies": {
+<<<<<<< HEAD
     "dotenv": "^16.4.7",
     "express": "^4.18.2",
     "mongoose": "^8.10.1"
+=======
+    "express": "^4.18.2"
+>>>>>>> 30c4006185b062f52b904d9a0633c08873cceb2e
   }
 }
